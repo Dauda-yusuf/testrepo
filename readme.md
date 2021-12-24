@@ -1,0 +1,1 @@
+# Hi this is my first time of using git, and it seems cool and interesting. let see how it goes
